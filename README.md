@@ -1,7 +1,5 @@
 This project was made with Adobe ExtendScript and After Effects. Purpose of it - create animation using only code.
-
 ![afteriai_1](https://user-images.githubusercontent.com/103639007/185755410-5c5a44af-e91a-4955-948e-4c0385f5d659.gif)
-
 At first animation was made only using Adobe After Effects and code expressiong, then was created Adobe ExtendScript file where running it After Effects opens automaticaly.
 Projects was made in this order:
   - Setting composition width, height, FPS;
